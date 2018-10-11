@@ -1,0 +1,22 @@
+<Page loaded = "loaded">
+<Page.actionBar>
+    <ActionBar title="DASHBOARD" class="abar2"></ActionBar>
+</Page.actionBar>
+
+<StackLayout class="BackgroundImage" orientation="horizontal">
+    <StackLayout class="BackgroundImage" orientation="vertical">
+    </StackLayout>
+
+<AbsoluteLayout class = "absolutelayout">
+
+    <Button class="important" tap ="btimportant"/>
+    <Button class="event" tap = "btevent"/>
+    <Button class="contact" tap = "btcontact"/>
+    <Button class="lesson" tap = "btlesson"/>
+   
+   
+</AbsoluteLayout>
+
+</StackLayout>
+
+</Page>
